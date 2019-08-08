@@ -1,0 +1,17 @@
+{
+  "name": "ioredis-namespace",
+  "version": "1.0.0",
+  "description": "ioredis with namespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "some one",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "4.14.0"
+  }
+}
